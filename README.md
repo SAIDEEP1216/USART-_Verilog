@@ -1,0 +1,1 @@
+USART Tx and Rx Design using Verilog and Verification using Testbench. The Tx and Rx are connected in loopback mode, the data transmitted from Tx is received by Rx. This code is part of Learning Verilog from Udemy.
